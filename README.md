@@ -71,11 +71,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## test emails
 ### Users Admin
-email:superuser@superuser.com
+email: superuser@superuser.com
 password: 1234567890
 ### Storage area
-email:deposito@rol.com
+email: deposito@rol.com
 password: 1234567890
 ### Sales Area
-email:vendedor@rol.com
+email: vendedor@rol.com
 password: 1234567890
