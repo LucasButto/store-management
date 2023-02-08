@@ -54,6 +54,6 @@ This is an open-source project and we are excited to receive contributions from 
 
 ## Screenshot
 
-<p aling="center">
+<p align="center">
     <img src='./src/img/proj.jpg' width="600" height="400">
 </p>
