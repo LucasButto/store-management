@@ -48,7 +48,10 @@ Here are some test accounts you can use to access the system and test its featur
 
 ## Contribution
 
-This project has been created by Lucas Butto (GitHub: https://github.com/LucasButto), Juan Ignacio Garnero (GitHub: https://github.com/juaanig), and Francisco Mulé (GitHub: https://github.com/franmux01).
+- This project has been created by: 
+  - Lucas Butto (GitHub: https://github.com/LucasButto)
+  - Juan Ignacio Garnero (GitHub: https://github.com/juaanig)
+  - Francisco Mulé (GitHub: https://github.com/franmux01)
 
 This is an open-source project and we are excited to receive contributions from the community. If you want to contribute, please make a fork of this repository and create a pull request with your changes.
 
