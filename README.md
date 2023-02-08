@@ -6,7 +6,7 @@ This project is a stock control system that uses React for the frontend and Fire
 
 To install this project, you must first have Node.js and npm installed on your computer. Then, clone this repository and run the following command in your terminal:
 
-npm install
+> npm install
 
 This will install all the necessary dependencies for the project to work.
 
@@ -14,7 +14,7 @@ This will install all the necessary dependencies for the project to work.
 
 To use the system, run the following command in your terminal:
 
-npm start
+> npm start
 
 This will start the development server in local mode. Open your browser at the address `http://localhost:3000` to start using the system.
 
